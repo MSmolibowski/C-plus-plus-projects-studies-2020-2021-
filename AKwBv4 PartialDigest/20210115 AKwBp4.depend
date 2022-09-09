@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610833736 source:c:\users\mikol\desktop\20210115 akwbp4\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<numeric>
+
