@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610054773 source:c:\users\mikol\desktop\20200107 akwb p3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
